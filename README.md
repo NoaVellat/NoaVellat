@@ -1,18 +1,64 @@
-# 💫 About Me:
-À la recherche d’une alternance en développement web – dès septembre !<br>Bonjour à tous,<br>Après plusieurs années dans un autre secteur, j’ai décidé de me lancer pleinement dans ma reconversion en développement web. Aujourd’hui, je suis étudiant à la Web@académie d’Epitech Lyon, où je prépare un titre RNCP de niveau 5 (Bac+2).<br><br>Mon objectif : intégrer une alternance à partir de septembre (rythme 3 semaines en entreprise / 1 semaine en formation) pour monter en compétences sur des projets concrets et participer activement à votre chaîne de développement.<br><br>Ce que je peux apporter :<br>Frontend : Tailwind, HTML/CSS<br>Backend : PHP / Laravel, Node.js, Java / Spring (en cours d’apprentissage)<br>BDD & API : MySQL, API REST<br>Outils : Git, Docker, Postman<br><br>Mon parcours atypique m’a permis de développer une grande autonomie, de la rigueur et un vrai sens des priorités – des qualités que je souhaite aujourd’hui mettre au service d’une équipe pour concevoir des solutions fiables et structurées.<br><br>Si vous cherchez un alternant motivé, curieux et impliqué, n’hésitez pas à me contacter ou à partager ce post !<br>Merci d’avance pour votre aide et vos retours.
+<h1 align="left">Salut je suis Noa Vellat ! 👋</h1>
 
+###
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/noa-vellat-04594a207/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:noa.vellat@epitech.eu) 
+<div align="left">
+  <img height="75" src="https://media.tenor.com/ULt1QoO_tc0AAAAi/cat-vibe-vibe-cat.gif"  />
+</div>
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Mocha](https://img.shields.io/badge/-mocha-%238D6748?style=for-the-badge&logo=mocha&logoColor=white) ![Cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Noa Vellat&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Noa Vellat&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Noa Vellat&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+###
 
----
-[![](https://komarev.com/ghpvc/?username=Noa Vellat&icon=0&color=0)](https://visitcount.itsvg.in)
+<h2 align="left">À propos de moi</h2>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+###
+
+<p align="left">À la recherche d'une alternance en développement web (dès septembre)<br><br>Après une reconversion, je suis étudiant à la Web@académie d'Epitech Lyon (RNCP niveau 5, Bac+2).<br>Je souhaite intégrer une alternance 3 semaines en entreprise / 1 semaine en formation pour monter en compétences sur des projets concrets.<br><br>Compétences clés :<br>Frontend : Tailwind, HTML/CSS<br>Backend : PHP/Laravel, Node.js, Java/Spring (en cours)<br>BDD/API : MySQL, REST API<br>Outils : Git, Docker, Postman<br><br>Atouts : autonomie, rigueur, sens des priorités – mis au service d'une équipe pour des solutions fiables.<br><br>Contact et partages bienvenus.</p>
+
+###
+
+<h2 align="left">Ce que je maitrise</h2>
+
+###
+
+<div align="center">
+  <img src="https://cdn.simpleicons.org/html5/E34F26" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/css/1572B6" height="40" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/laravel/FF2D20" height="40" alt="laravel logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/spring/6DB33F" height="40" alt="spring logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/docker/2496ED" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/postman/FF6C37" height="40" alt="postman logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
+</div>
+
+###
+
+<p align="left"></p>
+
+###
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/noa-vellat-04594a207/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="mailto:noa.vellat@epitech.eu" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="52" height="40" alt="microsoft-outlook logo"  />
+  </a>
+</div>
+
+###
